@@ -14,6 +14,8 @@ public class XO {
                 {'-', '+', '-', '+', '-'},
                 {' ', '|', ' ', '|', ' '}};
 
+//        System.out.println();
+
         printGameboard(gameBoard);
 
         while (true) {
