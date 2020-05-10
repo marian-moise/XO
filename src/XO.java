@@ -15,6 +15,7 @@ public class XO {
                 {' ', '|', ' ', '|', ' '}};
 
 //        System.out.println();
+//        System.out.println();
 
         printGameboard(gameBoard);
 
